@@ -3,7 +3,7 @@
 /**
  * bnry_tree_node - Creates a bnry tree node.
  * @prnt: A pointer to the prnt of the node to create.
- * @vlu: The value to put in the new node.
+ * @vlu: The vlu to put in the new node.
  *
  * Return: If an error occurs - NULL.
  *         Otherwise - a pointer to the nwnode.
